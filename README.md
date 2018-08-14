@@ -1,2 +1,2 @@
-# Learning-Artificial-Intelligence
-learn more about ai
+# Learning-Machine-Learning
+learn more about ML
